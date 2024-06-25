@@ -1,0 +1,18 @@
+{
+  "name": "firebase-hosting-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "firebase-login": "firebase login",
+    "firebase-init": "firebase init",
+    "firebase-deploy": "firebase deploy"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase-tools": "^13.11.2"
+  }
+}
